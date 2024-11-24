@@ -1,5 +1,5 @@
 id,time,percent_yes,percent_no,lower_bound,upper_bound,share_counted,label,result,title_de,title_fr,type
-6730,1732016591005,,,,,,,,Bundesbeschluss über den Ausbauschritt 2023 für die Nationalstrassen,Arrêté fédéral sur l’étape d’aménagement 2023 des routes nationales,trend
-6740,1732016591054,,,,,,,,Mietrecht: Untermiete,droit du bail: sous-location,trend
-6750,1732016591100,,,,,,,,Mietrecht: Kündigung wegen Eigenbedarfs,droit du bail: résiliation pour besoin propre,trend
-6760,1732016591147,,,,,,,,KVG,LAMal,trend
+6730,12:06:58,47.7,52.3,44.4,51.01,0.32,Leichter Trend,Nein,Bundesbeschluss über den Ausbauschritt 2023 für die Nationalstrassen,Arrêté fédéral sur l’étape d’aménagement 2023 des routes nationales,trend
+6740,12:06:53,48.96,51.04,45.73,52.2,0.32,Leichter Trend,Nein,Mietrecht: Untermiete,droit du bail: sous-location,trend
+6750,12:07:06,46.88,53.12,43.7,50.05,0.32,Leichter Trend,Nein,Mietrecht: Kündigung wegen Eigenbedarfs,droit du bail: résiliation pour besoin propre,trend
+6760,12:06:56,53.13,46.87,50.63,55.63,0.32,Trend,Ja,KVG,LAMal,trend
