@@ -1,5 +1,5 @@
 id,time,percent_yes,percent_no,lower_bound,upper_bound,share_counted,label,result,title_de,title_fr,type
-6730,13:53:46,47.02,52.98,46.07,47.97,0.86,Klarer Trend,Nein,Bundesbeschluss über den Ausbauschritt 2023 für die Nationalstrassen,Arrêté fédéral sur l’étape d’aménagement 2023 des routes nationales,trend
-6740,13:54:02,49.02,50.98,47.99,50.06,0.86,Leichter Trend,Nein,Mietrecht: Untermiete,droit du bail: sous-location,trend
-6750,13:53:58,46.47,53.53,45.5,47.43,0.86,Klarer Trend,Nein,Mietrecht: Kündigung wegen Eigenbedarfs,droit du bail: résiliation pour besoin propre,trend
-6760,13:53:17,53.27,46.73,52.43,54.12,0.86,Klarer Trend,Ja,KVG,LAMal,trend
+6730,14:06:00,47.03,52.97,45.83,48.23,0.86,Klarer Trend,Nein,Bundesbeschluss über den Ausbauschritt 2023 für die Nationalstrassen,Arrêté fédéral sur l’étape d’aménagement 2023 des routes nationales,trend
+6740,14:06:45,48.98,51.02,47.99,49.97,0.86,Trend,Nein,Mietrecht: Untermiete,droit du bail: sous-location,trend
+6750,14:06:31,46.5,53.5,45.17,47.83,0.86,Klarer Trend,Nein,Mietrecht: Kündigung wegen Eigenbedarfs,droit du bail: résiliation pour besoin propre,trend
+6760,14:07:15,53.29,46.71,52.42,54.16,0.86,Klarer Trend,Ja,KVG,LAMal,trend
